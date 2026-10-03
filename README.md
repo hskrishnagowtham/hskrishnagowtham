@@ -2,9 +2,9 @@
 
 ### Java Full Stack Developer | Spring Boot | DSA | Cloud Computing
 
-I'm a Computer Science Engineering student passionate about building practical software applications and improving my problem-solving skills.
+I'm a Computer Science Engineering student interested in building practical software applications and developing strong problem-solving skills.
 
-I enjoy working with Java, Spring Boot, REST APIs, databases, and frontend technologies. I'm currently strengthening my Data Structures & Algorithms skills and learning Cloud Computing and AWS.
+I work with Java, Spring Boot, REST APIs, MySQL, and frontend technologies. I'm currently strengthening my Data Structures & Algorithms skills and learning Cloud Computing and AWS.
 
 ## 🛠️ Technical Skills
 
@@ -39,7 +39,8 @@ I enjoy working with Java, Spring Boot, REST APIs, databases, and frontend techn
 ## 🚀 Projects
 
 ### 🏦 Online Banking System
-A backend-focused banking application developed using Java and Spring Boot.
+
+A banking application developed using Java and Spring Boot with secure REST APIs.
 
 **Technologies:** Java, Spring Boot, Spring Security, JWT, MySQL, REST APIs
 
@@ -53,24 +54,36 @@ A backend-focused banking application developed using Java and Spring Boot.
 - Secured REST APIs
 
 ### 🎓 Student Management System
+
 A Java-based application for managing student information and related operations.
 
 **Technologies:** Java, Spring Boot, MySQL, REST APIs
 
 ### 💻 Student Management Frontend
+
 A frontend application designed to interact with backend APIs and provide a user-friendly interface.
 
 **Technologies:** React, JavaScript, HTML, CSS
 
 ## 🧠 DSA & Problem Solving
 
-- Practicing Data Structures & Algorithms regularly
+- Regularly practicing Data Structures & Algorithms
 - Solving problems on LeetCode
 - Currently focusing on Arrays, Strings, Hashing, and other core DSA concepts
 
-## ☁️ Cloud Computing
+## ☁️ Cloud & AWS
 
-Currently learning Cloud Computing and AWS, with a focus on understanding cloud fundamentals and deploying applications in the cloud.
+Currently learning Cloud Computing and AWS, with a focus on cloud fundamentals, AWS services, and application deployment.
+
+## 📜 Certifications
+
+- Java & Spring Boot
+- Java
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- HTML & CSS
+- JavaScript
+- SQL
 
 ## 🎯 Current Goals
 
@@ -83,6 +96,7 @@ Currently learning Cloud Computing and AWS, with a focus on understanding cloud 
 ## 📫 Connect With Me
 
 - GitHub: [@hskrishnagowtham](https://github.com/hskrishnagowtham)
+- LeetCode: [@hskrishnagowtham](https://leetcode.com/)
 
 ---
 
